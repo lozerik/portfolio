@@ -37,18 +37,18 @@ export const projects = [
     href: "#",
   },
   {
-    title: "Proyecto dos",
-    year: "2025",
+    title: "guia neofito",
+    year: "2026",
     description:
-      "Describe qué problema resolviste, qué stack usaste y qué resultado hubo. Un enlace al repo o al demo basta.",
+      "Un proyecto que tiene como intencioin practicar y mejorar mis habilidades con python, flask y uso de base de datos",
     tags: ["Full-stack"],
     href: "#",
   },
   {
-    title: "Proyecto tres",
+    title: "Pizza",
     year: "2025",
     description:
-      "Otro caso: herramienta interna, app web, o un experimento. Lo importante es que se entienda el impacto.",
+      "Proyecto conjunto para crear una pagina profesional usando leguajes de marcado y mejorar los lenguajes backend",
     tags: ["UI", "API"],
     href: "#",
   },

@@ -96,9 +96,6 @@ export default function App() {
             <p className="kicker">03 — Contacto</p>
             <h2>¿Hablamos?</h2>
             <p>
-              Abierto a colaborar en producto, front o sistemas. El contenido
-              de <code>src/data.js</code> es el único archivo que tienes que
-              editar para personalizar casi todo el sitio.
             </p>
             <div className="hero__actions">
               <a

@@ -11,19 +11,12 @@ export const profile = {
 
 export const about = {
   paragraphs: [
-    "Soy un estudiante recién graduado, curioso e inquieto por naturaleza."
-    "Llegué al mundo de la programación a través de mi curiosidad por crear"
-    "aplicaciones, y esa base me enseñó a pensar en la creación de"
-    "aplicaciones de extremo a extremo — desde el servidor y la base de"
-    "datos hasta la lógica que se ejecuta por encima. La programación es lo"
-    "que me motiva de la informática."
-    "Necesito entender las cosas desde dentro antes de aceptarlas, asumo"
-    "más de lo que se me pide, y prefiero preguntar antes que fingir que sé."
-    "Quiero construir mi carrera desarrollando aplicaciones fullstack,"
-    "trabajando cómodamente tanto en back-end como en front-end.",
+    "Soy un estudiante recién graduado, curioso e inquieto por naturaleza.",
+    "Llegué al mundo de la programación a través de mi curiosidad por crear aplicaciones, y esa base me enseñó a pensar en la creación de aplicaciones de extremo a extremo — desde el servidor y la base de datos hasta la lógica que se ejecuta por encima. La programación es lo que me motiva de la informática.",
+    "Necesito entender las cosas desde dentro antes de aceptarlas, asumo más de lo que se me pide, y prefiero preguntar antes que fingir que sé.",
+    "Quiero construir mi carrera desarrollando aplicaciones fullstack, trabajando cómodamente tanto en back-end como en front-end.",
   ],
 };
-
 export const skills = [
   "JavaScript",
   "TypeScript",
